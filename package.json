@@ -21,24 +21,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devebot/devebot-co-elasticsearch.git"
+    "url": "git+https://github.com/chuong2v/devebot-co-elasticsearch.git"
   },
   "keywords": [
     "devebot",
     "devebot-bridge"
   ],
-  "author": "devebot",
+  "author": "chuong2v",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devebot/devebot-co-elasticsearch/issues"
+    "url": "https://github.com/chuong2v/devebot-co-elasticsearch/issues"
   },
-  "homepage": "https://github.com/devebot/devebot-co-elasticsearch#readme",
+  "homepage": "https://github.com/chuong2v/devebot-co-elasticsearch#readme",
   "peerDependencies": {
-    "devebot": "^0.3.0"
+    "@chuong2v/devebot": "^0.3.0"
   },
   "dependencies": {
     "@elastic/elasticsearch": "^8.6.0",
-    "devebot": "^0.3.0",
+    "@chuong2v/devebot": "^0.3.0",
     "elasticsearch": "^15.4.1",
     "superagent": "^1.8.5"
   },
