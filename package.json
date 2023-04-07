@@ -34,11 +34,11 @@
   },
   "homepage": "https://github.com/chuong2v/devebot-co-elasticsearch#readme",
   "peerDependencies": {
-    "@chuong2v/devebot": "^0.3.0"
+    "@chuong2v/devebot": "^0.3.5"
   },
   "dependencies": {
     "@elastic/elasticsearch": "^8.6.0",
-    "@chuong2v/devebot": "^0.3.0",
+    "@chuong2v/devebot": "^0.3.5",
     "elasticsearch": "^15.4.1",
     "superagent": "^1.8.5"
   },
